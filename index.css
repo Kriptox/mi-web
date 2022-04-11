@@ -1,0 +1,6 @@
+body{ background-image:url(imagenes/4MES.gif);}
+#logo {width: 155px;}
+#YoProgramo {margin-left: 15px;margin-top: 0px;font-family:fantasy ;}
+#container-logo{background-color: rgba(65, 75, 141, 0.516);height: 80px; margin-left: -18px;width: auto;}
+#YoProgramo span  {background: -webkit-linear-gradient(rgba(208, 63, 160, 0.632), rgba(184, 122, 143, 0.674));}
+#YoProgramo p {color: aquamarine;}
