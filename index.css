@@ -1,6 +1,7 @@
 body{ background-image:url(imagenes/4MES.gif);}
-#logo {width: 155px;}
-#YoProgramo {margin-left: 15px;margin-top: 0px;font-family:fantasy ;}
-#container-logo{background-color: rgba(65, 75, 141, 0.516);height: 80px; margin-left: -18px;width: auto;}
-#YoProgramo span  {background: -webkit-linear-gradient(rgba(208, 63, 160, 0.632), rgba(184, 122, 143, 0.674));}
-#YoProgramo p {color: aquamarine;}
+header {align-content: center;}
+#banner{border-radius: 10px;opacity:90%;box-shadow: 2px 2px 2px 2px rgba(205, 95, 132, 0.584); height: 420px; width: 1290px;}
+#div-banner {margin-left: 3mm;margin-right: 4mm;}
+#facebook-boton {float: right;margin-top: 15px;}
+#wsp-boton {float: right; margin-top: 18px;}
+#Navegacion {background-color: rgb(135, 180, 222)}
